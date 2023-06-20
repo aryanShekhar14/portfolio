@@ -11,7 +11,8 @@ const Portfolio = () => {
     {
       id: 1,
       src: chitchat,
-      github: "https://github.com/aryanShekhar14/chit_chat"
+      github: "https://github.com/aryanShekhar14/chit_chat",
+      website:"https://chit-chat-8663.onrender.com"
 
     },
     {
