@@ -9,73 +9,81 @@ import mongo from "../assets/mongo.png"
 import node from "../assets/node.png"
 import react from "../assets/react.png"
 import tailwind from "../assets/tailwind.png"
+import python from "../assets/python.png"
 
 const TechnicalSkill = () => {
-    const tech = [
-        {
-            id: 1,
-            src: react,
-            title: "React Js",
-            style: "shadow-sky-500"
-        },
-        {
-            id: 2,
-            src: mongo,
-            title: "MongoDB",
-            style: "shadow-green-600"
-        },
-        {
-            id: 3,
-            src: node,
-            title: "Node Js",
-            style: "shadow-green-600"
-        },
-        {
-            id: 4,
-            src: java,
-            title: "Java",
-            style: "shadow-sky-600"
-        },
-        {
-            id: 5,
-            src: html,
-            title: "HTML",
-            style: "shadow-orange-500"
-        },
-        {
-            id: 6,
-            src: css,
-            title: "CSS",
-            style: "shadow-blue-600"
-        },
-        {
-            id: 7,
-            src: javascript,
-            title: "Javascript",
-            style: "shadow-yellow-400"
-        },
-        {
-            id: 8,
-            src: bootstrap,
-            title: "Bootstrap",
-            style: "shadow-purple-600"
-        },
-        {
-            id: 9,
-            src: tailwind,
-            title: "Tailwind",
-            style: "shadow-sky-500"
-        },
-        {
-            id: 10,
-            src: github,
-            title: "Github",
-            style: "shadow-gray-50"
-        },
+  const tech = [
+    {
+      id: 1,
+      src: java,
+      title: "Java",
+      style: "shadow-sky-600"
+    },
+    {
+      id: 2,
+      src: python,
+      title: "Python",
+      style: "shadow-sky-500"
 
-    ]
-    return (
-        <div
+    },
+    {
+      id: 3,
+      src: react,
+      title: "React Js",
+      style: "shadow-sky-500"
+    },
+    {
+      id: 4,
+      src: mongo,
+      title: "MongoDB",
+      style: "shadow-green-600"
+    },
+    {
+      id: 5,
+      src: node,
+      title: "Node Js",
+      style: "shadow-green-600"
+    },
+    {
+      id: 6,
+      src: html,
+      title: "HTML",
+      style: "shadow-orange-500"
+    },
+    {
+      id: 7,
+      src: css,
+      title: "CSS",
+      style: "shadow-blue-600"
+    },
+    {
+      id: 8,
+      src: javascript,
+      title: "Javascript",
+      style: "shadow-yellow-400"
+    },
+    {
+      id: 9,
+      src: bootstrap,
+      title: "Bootstrap",
+      style: "shadow-purple-600"
+    },
+    {
+      id: 10,
+      src: tailwind,
+      title: "Tailwind",
+      style: "shadow-sky-500"
+    },
+    {
+      id: 11,
+      src: github,
+      title: "Github",
+      style: "shadow-gray-50"
+    },
+
+  ]
+  return (
+    <div
       name="technical skills"
       className="bg-gradient-to-b from-gray-800 to-black w-full h-full"
     >
@@ -100,7 +108,7 @@ const TechnicalSkill = () => {
         </div>
       </div>
     </div>
-    )
+  )
 }
 
 export default TechnicalSkill
