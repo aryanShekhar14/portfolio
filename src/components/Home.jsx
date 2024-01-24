@@ -10,10 +10,10 @@ const Home = () => {
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
         <div className='flex flex-col justify-center h-full'>
           <h2 className='text-4xl sm:text-6xl font-bold text-white'>
-            I'm a Software Engineer and Full Stack Developer
+            I'm a Software Engineer
           </h2>
           <p className=' text-gray-500 py-4 max-w-md'>
-            A highly motivated 4th-year student pursuing Bachelor of Technology degree in Computer Science from VIT Vellore.
+            A highly motivated final year student pursuing Bachelor of Technology degree in Computer Science from VIT Vellore.
           </p>
           <div>
             <Link to="portfolio" smooth duration={500} className='group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r  from-purple-950 to-cyan-900 cursor-pointer' >Portfolio<span className='px-2 group-hover:rotate-90 duration-300'>
