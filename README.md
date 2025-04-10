@@ -35,18 +35,19 @@ Check out the live site here: [My Portfolio](https://findaryanshekhar.netlify.ap
 ### Installation
 
 1. Clone the repository:
-   git clone https://github.com/aryanShekhar14/portfolio.git
-   cd portfolio
 
-2. Install dependencies:
+       git clone https://github.com/aryanShekhar14/portfolio.git
+       cd portfolio
 
-    npm install
+3. Install dependencies:
 
-3. Start the development server:
+       npm install
 
-    npm start
+5. Start the development server:
 
-4. Open http://localhost:3000 to view it in your browser.
+       npm start
+
+7. Open http://localhost:3000 to view it in your browser.
 
 📦 Deployment
 
@@ -56,10 +57,10 @@ This site is continuously deployed using Netlify. Any changes pushed to the main
 
 This site serves as my digital business card and project showcase. If you're interested in collaborating or have any questions, feel free to connect!
 
-    LinkedIn: [My LinkedIn](https://www.linkedin.com/in/aryanshekhar/)
+LinkedIn: [My LinkedIn](https://www.linkedin.com/in/aryanshekhar/)
 
-    Email: aryan141001@gmail.com
+Email: aryan141001@gmail.com
 
-    GitHub: [My GitHub](https://github.com/aryanShekhar14)
+GitHub: [My GitHub](https://github.com/aryanShekhar14)
 
 Thank you for visiting! 🙌
