@@ -13,7 +13,7 @@ const Home = () => {
             I'm a Software Engineer
           </h2>
           <p className=' text-gray-500 py-4 max-w-md'>
-            A highly motivated final year student pursuing Bachelor of Technology degree in Computer Science from VIT Vellore.
+            A highly motivated recent Computer Science graduate determined to showcase his skills and problem solving abilities to enhance lives through smart and scalable solutions.
           </p>
           <div>
             <Link to="portfolio" smooth duration={500} className='group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r  from-purple-950 to-cyan-900 cursor-pointer' >Portfolio<span className='px-2 group-hover:rotate-90 duration-300'>

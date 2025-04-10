@@ -9,7 +9,7 @@ const About = () => {
                     <p className="text-4xl font-bold inline border-b-4 border-gray-500">About</p>
                 </div>
                 <p className="text-xl mt-10">
-                    My name is Aryan Shekhar. I am currently persuing BTech in Computer Science from VIT Vellore. With a strong focus on web development, I have acquired extensive experience in creating dynamic and visually appealing websites using React JS and Node JS, along with various complementary tools such as Bootstrap, Tailwind, and Chakra UI. I also possess a solid understanding of integrating third-party APIs into my projects. I have successfully utilized APIs like OMDB and NEWSAPI, to fetch and display relevant data from external sources, thereby enhancing the overall functionality and versatility of the web applications.
+                    My name is Aryan Shekhar. I completed my BTech in Computer Science from VIT Vellore in 2024. With a strong focus on web development, I have acquired extensive experience in creating dynamic and visually appealing websites using React JS and Node JS, along with various complementary tools such as Bootstrap, Tailwind, and Chakra UI. I also possess a solid understanding of integrating third-party APIs into my projects. I have successfully utilized APIs like OMDB and NEWSAPI, to fetch and display relevant data from external sources, thereby enhancing the overall functionality and versatility of the web applications.
                 </p>
             </div>
         </div>
